@@ -124,4 +124,4 @@ Potential modelling components such as WRF, chemistry/chemical transport modelli
 
 ## Important
 
-Do not upload `.env`, JWT secrets, passwords, API keys, or `node_modules` to GitHub.
+
