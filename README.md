@@ -122,6 +122,5 @@ Potential modelling components such as WRF, chemistry/chemical transport modelli
 - `.env` is excluded from Git using `.gitignore`.
 - `node_modules` is excluded from Git.
 
-## Important
 
 
